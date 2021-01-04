@@ -1,0 +1,1 @@
+Simple one-pager person repo. Spring Web, SQL, JS
